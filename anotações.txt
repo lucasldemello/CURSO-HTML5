@@ -143,3 +143,15 @@ text-decoration: destaque ao texto (underline, overline, tachado)
 list-style-type: Altera o marcador. 
 
 list-style-image
+
+
+Dimensões e alinhamentos. 
+
+Widht
+Height
+
+max-Widht
+max-height 
+
+margin
+text align
