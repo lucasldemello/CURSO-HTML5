@@ -120,3 +120,22 @@ border-top-witdh
 border-top-color
 
 também temos o border-radius, permite arredondar as bordas. em 50% faço um circulo
+
+
+-> Estilizando textos 
+
+Font-family: Altera a fonte do texto, podemos usar fontes da web ou instaladas na maquina. 
+
+Web Safe, são encontradas entre todos os disposivos
+
+font-size: altera o tamanho do texto
+
+font-style: altera o estilo do texto. Lembrar se a fonte tem suporte a itálico. 
+
+font-weight: altera o peso do texto
+
+text-transform: alterna o texto entre maiuscula e miniscula.(upper, lower e capitalize)
+
+text-decoration: destaque ao texto (underline, overline, tachado)
+
+
