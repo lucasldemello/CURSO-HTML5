@@ -73,3 +73,19 @@ Servem para agrupar uma coleção de items.
 
 <li> Item da lista. 
 
+--- CSS3 
+
+*Voce cria regras de estilos para elementos ou grupo de elementos* 
+
+O que são seletores?
+São apenas elementos HTML e dentro deles temos as declarações com propriedade e valor.
+
+seletores podem ser de tipo, id e classes
+.classe
+#id
+
+
+Conceitos 
+
+
+Principais seletores. 
