@@ -87,5 +87,12 @@ seletores podem ser de tipo, id e classes
 
 Conceitos 
 
+Box model, é a representação de cada elemento HTML
+
+O box model tem 4 areas: 
+- Margin: espaçamento entre elementos
+- Border: circundam o padding e o conteudo, e podemos alterar a aparencia 
+- Padding: espaçamento entre bordar e conteudo 
+- Content: É o que o seu bloco representa. (texto, imagem, video, etc.)
 
 Principais seletores. 
