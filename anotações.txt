@@ -96,3 +96,27 @@ O box model tem 4 areas:
 - Content: É o que o seu bloco representa. (texto, imagem, video, etc.)
 
 Principais seletores. 
+
+
+Estilizando elementos.
+
+padding.
+10px 5px eixo y e eixo x 
+
+15px 10px 5px 0; topo, direita, baixo e esquerda (Sentido horário)
+
+-top, -right, -bottom, -left.
+
+background (color, image, position)
+
+Bom lugar pra estudar é MDN. 
+
+Border
+Largura, Cor, Estilo. temos as propriedades especificas de cada lado. 
+border-witdh, border-color, border-style. 
+
+podemos juntar os lados com as propriedades
+border-top-witdh
+border-top-color
+
+também temos o border-radius, permite arredondar as bordas. em 50% faço um circulo
