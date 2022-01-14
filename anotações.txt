@@ -56,5 +56,10 @@ Textos maiores e mais densos utilizamos a tag p (paragrafo)
 
 A ancora é o link, ele aponta para um elemento do seu site ou externo (href).. 
 
+- Imagens 
 
+<img> para representar imagens 
+
+src -> local da imagen interno ou externo
+alt -> Recomendavel por causa da acessibilidade.
 
