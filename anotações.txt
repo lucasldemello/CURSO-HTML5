@@ -138,4 +138,8 @@ text-transform: alterna o texto entre maiuscula e miniscula.(upper, lower e capi
 
 text-decoration: destaque ao texto (underline, overline, tachado)
 
+- Estilizando Listas
 
+list-style-type: Altera o marcador. 
+
+list-style-image
